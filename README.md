@@ -29,6 +29,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 ## Screen shots of my work flow.
 ```
+Thought this i was using Bootstrap, whci I linked in the html file.
 Here we have added the nav bar and main banner to the  HTML file with the link to the CSS style sheet.
 ```
 ![getting started](assets/img/MAin%20abnner_nav%20bar%20html.jpg)
@@ -55,3 +56,19 @@ Here i was able to add a Section to show what I do under portfolio. As of right 
 ![getting started](assets/img/potfolio_css.jpg)
 
 # Adding dark backround color to Navbar on page scroll
+```
+I wanted to have the Navbar a bit more noticable when scrolling though the wbesite so in my CSS file I added a backround color and changed the sizing. I also wanted to section of each pare with a diffent color backround and changed the color of the text.
+```
+![gettign started](assets/img/navbar_textChanged.jpg)
+![getting started](assets/img/Website_navbar_textChange.jpg)
+
+# Added a map with Google maps (not really loacation)
+```
+Here i wanted to try and add a map for future projects. I used  https://www.embed-map.com to Generate an HTML code which i then copy and pasted to my code locted in my contact section of my HTML file. 
+```
+![getting started](assets/img/contact_section_withGooglemaps.jpg)
+
+# Adding a section that has my Skill set and Added a Portfolio Section
+```
+I wanted to add a section where I can showcase what i have done or will be doing. I few things i have are a youtube chanlle, and my shop. 
+``

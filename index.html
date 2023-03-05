@@ -18,6 +18,9 @@
                         <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="#skills">Skills</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="#portfolio">Portfolio</a>
                     </li>
                     <li class="nav-item">
@@ -71,12 +74,13 @@
             </div>
         </div>
     </section>
-    <section id="portfolio">
+    <!--Skills section-->
+    <section id="skills">
         <div class="container">
-            <h1 class="text-center">Portfolio</h1>
+            <h1 class="text-center">Skills</h1>
             <div class="row">
                 <div class="col-lg-4 mt-4">
-                    <div class="card portfolioText">
+                    <div class="card skillsText">
                         <div class="card-body">
                             <h4 class="card-title mt-3">Shop Owner</h4>
                             <p class="card-text mt-3">I am a Shop owner for stickers/plushies. I create diecuts, sticker sheets, and plushies. At times I have also made small budget books for those looking to save up. 
@@ -85,7 +89,7 @@
                     </div>  
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <div class="card portfolioText">
+                    <div class="card skillsText">
                         <div class="card-body">
                             <h4 class="card-title mt-3">Coding</h4>
                             <p class="card-text mt-3">Curretly Studying to be a software engineer. 
@@ -94,7 +98,7 @@
                     </div>  
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <div class="card portfolioText">
+                    <div class="card skillsText">
                         <div class="card-body">
                             <h4 class="card-title mt-3">Coming Soon</h4>
                             <p class="card-text mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.
@@ -105,7 +109,7 @@
                 </div>
 
                 <div class="col-lg-4 mt-4">
-                    <div class="card portfolioText">
+                    <div class="card skillsText">
                         <div class="card-body">
                             <h4 class="card-title mt-3">Comeing Soon</h4>
                             <p class="card-text mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.
@@ -117,7 +121,64 @@
             </div>
         </div>
     </section>
-    </body>
+    <!--Portfolio Section-->
+    <section id="portfolio">
+        <div class="container mt-3">
+            <h1 class="text-center">Portfolio</h1>
+            <div class="row">
+                <div class="col-lg-4 mt-4">
+                    <div class="card">
+                        <img class="card-img-top" src="assets/img/Cosplay_me.jpg" alt="Card image" style="width:100%">
+                        <div class="card-body">
+                            <h4 class="card-title">Cosplay</h4>
+                            <p class="card-text">Since I love crafting here you can see I have made my own armor set from the monster hunter game. Eveything was made from a material called worbla. Bow was made from wood and foam.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mt-4">
+                    <div class="card portfolioContent">
+                        <img class="card-img-top" src="assets/img/Etys_img_fromSHop.jpg" alt="Card image" style="width:100%">
+                        <div class="card-body">
+                            <h4 class="card-title">Etsy shop</h4>
+                            <p class="card-text">I have a small shop on etsy with sticker and notepads, since starting class I haven't been able to upadate much. But still up and running!</p>
+                        </div>
+                    </div>
+                </div>        
+    <!-- contact section-->
+    <section id="contact">
+        <div class="container mt-3 contactContent">
+            <h1 class="text-center">Contact Me</h1>
+
+            <div class="row mt-4">
+                <div class="col-lg-6">
+                    <div style="overflow:hidden;max-width:100%;width:500px;height:500px;">
+                        <div id="embedded-map-display" style="height:100%; width:100%;max-width:100%;">
+                            <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/search?q=Great+Smoky+Mountains,+United+States&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
+                        </div>
+                        <a class="google-maps-html" href="https://kbj9qpmy.com/hrn" id="grab-map-data">Hosting Right Now</a>
+                        <style>#embedded-map-display img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- form fields -->
+                    <form>
+                        <input type="text" class="form-control form-control-lg" placeholder="Name">
+                        <input type="email" class="form-control mt-3" placeholder="Email">
+                        <input type="text" class="form-control mt-3" placeholder="Subject">
+                        <div class="mb-3 mt-3">
+                            <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
+                        </div>
+                    </form>
+                    <button type="button" class="btn btn-success mt-3">Contact Me</button>
+                    
+                </div>
+
+            </div>
+        </div>
+    </section>
+    </section>
+</body>
 </head>
     
 </html>
