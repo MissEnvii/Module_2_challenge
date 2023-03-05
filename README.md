@@ -53,3 +53,5 @@ Here i was able to add a Section to show what I do under portfolio. As of right 
 ![getting started](assets/img/Portfolio%20section.jpg)
 ![getting started](assets/img/Portfolio_html.jpg)
 ![getting started](assets/img/potfolio_css.jpg)
+
+# Adding dark backround color to Navbar on page scroll
