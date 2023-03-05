@@ -7,10 +7,10 @@
 }
 /* text css above hero image*/
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 6rem;
 }
 .hero_desc {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .hero-text {
     text-align: center;
@@ -32,9 +32,15 @@
     text-align: center;
 }
 .portfolioText:hover {
-    border: 1px solid #3f2472;
+    border: 3px solid #d25df0;
 }
 
-.navbarScroll.navbarDark {
-    background-color: rgb(10, 82, 48);
+.navbar {
+    background-color: rgb(70, 62, 80);
+    font-size: 1rem;
+}
+
+.text-center {
+    background-color: rgb(53, 45, 63);
+    color: rgb(245, 181, 156);
 }
