@@ -37,3 +37,12 @@ Here we have added the nav bar and main banner to the  HTML file with the link t
 I have upadted the the CSS sheet, to start fixing um my HTML
 ```
 ![getting started](assets/img/css_01.jpg)
+```
+I am also useing a Bootcamp css to help stle my navbar this is how it looks so far
+```
+![getting stared](assets/img/website_looks_01.jpg)
+```
+I have added class named mt-4 and pt-4 with a container class that will set the margin top and padding top to 1.5. The next section was assgined a class of col-lg-8 wiht like atke up the right column with an 8-part grid for bigger screens.
+```
+![getting started](assets/img/AboutMe-css01.jpg)
+![getting started](assets/img/Aboutme_websiteImg_01.jpg)
