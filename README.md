@@ -49,4 +49,7 @@ I have added class named mt-4 and pt-4 with a container class that will set the 
 
 ```
 Here i was able to add a Section to show what I do under portfolio. As of right now I don't have much so I do have some empty boxes. 
-![getting started]()
+```
+![getting started](assets/img/Portfolio%20section.jpg)
+![getting started](assets/img/Portfolio_html.jpg)
+![getting started](assets/img/potfolio_css.jpg)
