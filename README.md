@@ -29,10 +29,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 ## Screen shots of my work flow.
 ```
-Thought this i was using Bootstrap, whci I linked in the html file.
-Here we have added the nav bar and main banner to the  HTML file with the link to the CSS style sheet.
+Through out this I was using Bootstrap, whcih I linked in the html file.
+Here we have added the nav bar and main banner to the  HTML file with the link to the CSS style sheet. First link is to help create the website. I then Have a second link to help me create my Footer whic You will see later on in the the readme file. 
 ```
 ![getting started](assets/img/MAin%20abnner_nav%20bar%20html.jpg)
+![getting started](assets/img/Link%20to%20help%20with%20CSS.jpg)
 
 ```
 I have upadted the the CSS sheet, to mkae my HTML more Readable.
@@ -43,13 +44,14 @@ I am also useing a Bootcamp css to help stle my navbar this is how it looks so f
 ```
 ![getting stared](assets/img/website_looks_01.jpg)
 ```
-I have added class named mt-4 and pt-4 with a container class that will set the margin top and padding top to 1.5. The next section was assgined a class of col-lg-8 wiht like atke up the right column with an 8-part grid for bigger screens.
+I have added class named mt-4 and pt-4 with a container class that will set the margin top and padding top to 1.5. The next section was assgined a class of col-lg-8 with like take up the right column with an 8-part grid for bigger screens.
 ```
 ![getting started](assets/img/AboutMe-css01.jpg)
 ![getting started](assets/img/Aboutme_websiteImg_01.jpg)
 
 ```
-Here i was able to add a Section to show what I do under portfolio. As of right now I don't have much so I do have some empty boxes. 
+Here I was able to add a Section to show what I do under portfolio. As of right now I don't have much so I do have some empty boxes. 
+* (later I change this section to Skills)
 ```
 ![getting started](assets/img/Portfolio%20section.jpg)
 ![getting started](assets/img/Portfolio_html.jpg)
@@ -59,16 +61,19 @@ Here i was able to add a Section to show what I do under portfolio. As of right 
 ```
 I wanted to have the Navbar a bit more noticable when scrolling though the wbesite so in my CSS file I added a backround color and changed the sizing. I also wanted to section of each pare with a diffent color backround and changed the color of the text.
 ```
-![gettign started](assets/img/navbar_textChanged.jpg)
+![getting started](assets/img/navbar_textChanged.jpg)
 ![getting started](assets/img/Website_navbar_textChange.jpg)
 
-# Added a map with Google maps (not really loacation)
+# Added a map with Google maps (not my real loacation)
 ```
-Here i wanted to try and add a map for future projects. I used  https://www.embed-map.com to Generate an HTML code which i then copy and pasted to my code locted in my contact section of my HTML file. 
+Here I wanted to try and add a map for future projects. I used  https://www.embed-map.com to Generate an HTML code which I then copy and pasted to my code locted in my contact section of my HTML file. 
 ```
 ![getting started](assets/img/contact_section_withGooglemaps.jpg)
 
-# Adding a section that has my Skill set and Added a Portfolio Section
+# CHanging my Portfoli osection to read SKills and add a better Portfolio section.
 ```
-I wanted to add a section where I can showcase what i have done or will be doing. I few things i have are a youtube chanlle, and my shop. 
-``
+Switch what I had for a portfolio to a skill section and then added a Portfolio section that shows what I have done in the past and what i'm curretly doing.
+```
+![getting started](assets/img/UPdatdeProtfolio_toSkill.jpg)
+![getting started](assets/img/Portfolio%20section.jpg)
+
