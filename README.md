@@ -1,8 +1,8 @@
-#CSS challenge: Professinal Protfolio
+# CSS challenge: Professinal Protfolio
 
 In this challenge we will be creating a website from scratch. Showing case who we are and what we do. 
 
-##User Story 
+## User Story 
 
 ```
 AS AN employer
@@ -10,7 +10,7 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 ```
 GIVEN I need to sample a potential employee's previous work
@@ -27,7 +27,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
-##Screen shots of my work flow.
+## Screen shots of my work flow.
 ```
 Here we have added the nav bar and main banner to the  HTML file with the link to the CSS style sheet.
 ```
