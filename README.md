@@ -70,7 +70,7 @@ Here I wanted to try and add a map for future projects. I used  https://www.embe
 ```
 ![getting started](assets/img/contact_section_withGooglemaps.jpg)
 
-# CHanging my Portfoli osection to read SKills and add a better Portfolio section.
+# Changing my Portfolio section to read SKills and add a better Portfolio section.
 ```
 Switch what I had for a portfolio to a skill section and then added a Portfolio section that shows what I have done in the past and what i'm curretly doing.
 ```
