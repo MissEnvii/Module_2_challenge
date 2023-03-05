@@ -23,6 +23,11 @@
 .ImgAboutPage{
     width: 100%;
 }
+/* Portfolio section */
+.btn {
+  background-color: #f7b990;
+}
+
  /* Skills section css */
 .skillsText.card {
     height: 280px;

@@ -86,3 +86,10 @@ I first started with adding the HTML Which looks like this.
 I then had to add the CCS code which is as followed. Ass you see I had to add the URL to conect to the bootstrap Link located in my HTML.
 ```
 ![getting started](assets/img/Footer%20section%20CSS.jpg)
+
+# Adding link to Real live shop
+```
+I wanted to add a link to my real live shop just to see if it would work.
+I made a btn inside my card section in HTML for  my Etsy shop. 
+```
+![getting started](assets/img/Added%20link%20to%20portfolio%20section.jpg)
