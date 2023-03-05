@@ -34,7 +34,7 @@ Here we have added the nav bar and main banner to the  HTML file with the link t
 ![getting started](assets/img/MAin%20abnner_nav%20bar%20html.jpg)
 
 ```
-I have upadted the the CSS sheet, to start fixing um my HTML
+I have upadted the the CSS sheet, to mkae my HTML more Readable.
 ```
 ![getting started](assets/img/css_01.jpg)
 ```
@@ -46,3 +46,7 @@ I have added class named mt-4 and pt-4 with a container class that will set the 
 ```
 ![getting started](assets/img/AboutMe-css01.jpg)
 ![getting started](assets/img/Aboutme_websiteImg_01.jpg)
+
+```
+Here i was able to add a Section to show what I do under portfolio. As of right now I don't have much so I do have some empty boxes. 
+![getting started]()
