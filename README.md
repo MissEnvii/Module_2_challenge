@@ -77,3 +77,12 @@ Switch what I had for a portfolio to a skill section and then added a Portfolio 
 ![getting started](assets/img/UPdatdeProtfolio_toSkill.jpg)
 ![getting started](assets/img/Portfolio%20section.jpg)
 
+# Adding a footer with the help of Bootstrap
+```
+I first started with adding the HTML Which looks like this.
+```
+![Getting started](assets/img/Footer%20section.jpg)
+```
+I then had to add the CCS code which is as followed. Ass you see I had to add the URL to conect to the bootstrap Link located in my HTML.
+```
+![getting started](assets/img/Footer%20section%20CSS.jpg)
