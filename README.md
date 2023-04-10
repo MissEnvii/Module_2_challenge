@@ -1,4 +1,4 @@
-# CSS challenge: Professinal Protfolio
+# CSS challenge: Professinal Portfolio
 
 In this challenge we will be creating a website from scratch. Showing case who we are and what we do. 
 
@@ -29,18 +29,18 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 ## Screen shots of my work flow.
 ```
-Through out this I was using Bootstrap, whcih I linked in the html file.
-Here we have added the nav bar and main banner to the  HTML file with the link to the CSS style sheet. First link is to help create the website. I then Have a second link to help me create my Footer whic You will see later on in the the readme file. 
+Through out this I was using Bootstrap, which I linked in the html file.
+Here we have added the nav bar and main banner to the  HTML file with the link to the CSS style sheet. First link is to help create the website. I then Have a second link to help me create my Footer which You will see later on in the the readme file. 
 ```
 ![getting started](assets/img/MAin%20abnner_nav%20bar%20html.jpg)
 ![getting started](assets/img/Link%20to%20help%20with%20CSS.jpg)
 
 ```
-I have upadted the the CSS sheet, to mkae my HTML more Readable.
+I have upadted the the CSS sheet, to make my HTML more Readable.
 ```
 ![getting started](assets/img/css_01.jpg)
 ```
-I am also useing a Bootcamp css to help stle my navbar this is how it looks so far
+I am also useing a Bootcamp css to help style my navbar this is how it looks so far
 ```
 ![getting stared](assets/img/website_looks_01.jpg)
 ```
@@ -59,7 +59,7 @@ Here I was able to add a Section to show what I do under portfolio. As of right 
 
 # Adding dark backround color to Navbar on page scroll
 ```
-I wanted to have the Navbar a bit more noticable when scrolling though the wbesite so in my CSS file I added a backround color and changed the sizing. I also wanted to section of each pare with a diffent color backround and changed the color of the text.
+I wanted to have the Navbar a bit more noticable when scrolling though the wbesite so in my CSS file I added a backround color and changed the sizing. I also wanted to section off each part with a diffent color backround and changed the color of the text. Which shows the Purple and name.
 ```
 ![getting started](assets/img/navbar_textChanged.jpg)
 ![getting started](assets/img/Website_navbar_textChange.jpg)
